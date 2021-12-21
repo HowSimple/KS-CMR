@@ -12,11 +12,18 @@ The Clear My Record project team will develop a web-based application that allow
 
 Currently, no such system exists and expungements are often processed by either hiring a lawyer  or through an expungement event hosted by Kansas Legal Service where applicants are given  their criminal conviction information and complete their own application using Microsoft Word.  We want to streamline this process and make it more accessible to residents (and attorneys)  across the state. Though we are focusing on Kansas, the application will be designed to serve  users in at least two states - Kansas and Missouri - and to allow for additional states to be added.  
 
-Clear My Record is a joint project of [Code for KC](https://codeforkc.org/) and the [UMKC School of Law](https://law.umkc.edu/). Code for KC is a local brigade associated with Code for America and provides assistance to governmental and non-profit entities to improve the operation of government and non-profit services. Code for KC is affiliated locally with KC Digital Drive. The University of Missouri - Kansas City School of Law has been serving the Kansas City metropolitan area for over 123 years. UMKC School of Law has programs to train its students to utilize technology to improve the delivery of professional legal serivces.
-
 # What is Expungement? 
 
 Expungement is erasing the criminal conviction of an individual who has successfully completed the terms of sentencing and who has not had a subsequent criminal conviction within the recent past. When a conviction has been expunged, the person generally does not need to disclose the previous conviction. Some convictions are not subject to expungement. Other convictions may be subject to expungement but must be disclosed when applying for certain jobs or licenses.
+
+# How to Help
+Those who are interested in learning more or assisting in the development of Clear My Record are encouraged to join one of Code for KC's weekly [meetups](https://www.meetup.com/KCBrigade/#:~:text=Code%20for%20KC%20is%20a,use%20technology%20for%20civic%20good.) to meet the project team and hear about the work that is currently being done.
+
+More information about current work items can be found on our issues page.
+
+A list of key resources for the project are logged on our Wiki.
+
+A list of meeting agendas & minutes are available on our Wiki. 
 
 # Project Outline
 
@@ -47,11 +54,3 @@ The Clear My Record project began in August 2021, and will continue through the 
 * Quarter 8 (est May 1-July 31) 
     * Implementation and Use of 1.0 version of application in expungement clinics; Complete a  1.1 version creation cycle; Document reporting on learnings from project to share with  collaboration partners
 
-# How to Help
-Those who are interested in learning more or assisting in the development of Clear My Record are encouraged to join one of Code for KC's weekly [meetups](https://www.meetup.com/KCBrigade/#:~:text=Code%20for%20KC%20is%20a,use%20technology%20for%20civic%20good.) to meet the project team and hear about the work that is currently being done.
-
-More information about current work items can be found on our issues page.
-
-A list of key resources for the project are logged on our Wiki.
-
-A list of meeting agendas & minutes are available on our Wiki. 
