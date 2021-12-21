@@ -8,6 +8,10 @@ Currently, no such system exists and expungements are often processed by either 
 
 Expungement is erasing the criminal conviction of an individual who has successfully completed the terms of sentencing and who has not had a subsequent criminal conviction within the recent past. When a conviction has been expunged, the person generally does not need to disclose the previous conviction. Some convictions are not subject to expungement. Other convictions may be subject to expungement but must be disclosed when applying for certain jobs or licenses.
 
+# What We're Doing Now
+* Taking the details of interviews conducted by Scott Stockwell and documenting them
+* Creating a diagram that compares and contrasts the way different counties process expungements 
+
 # How to Help
 Those who are interested in learning more or assisting in the development of Clear My Record are encouraged to join one of Code for KC's weekly [meetups](https://www.meetup.com/KCBrigade/#:~:text=Code%20for%20KC%20is%20a,use%20technology%20for%20civic%20good.) to meet the project team and hear about the work that is currently being done.
 
