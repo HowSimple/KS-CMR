@@ -27,4 +27,4 @@ A list of meeting agendas & minutes are available on our [Wiki Home pae](https:/
 
 ### [Project Management](https://github.com/codeforkansascity/KS-CMR/projects/2)
 
-### [Issues](https://github.com/codeforkansascity/KS-CMR/issues)
+
