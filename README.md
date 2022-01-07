@@ -17,9 +17,9 @@ Those who are interested in learning more or assisting in the development of Cle
 
 More information about current work items can be found on our [project/issues](https://github.com/codeforkansascity/KS-CMR/projects/2) page.
 
-A list of key resources for the project are logged on our Wiki.
+A list of key resources for the project are logged on our [Wiki Home pae](https://github.com/codeforkansascity/KS-CMR/wiki).
 
-A list of meeting agendas & minutes are available on our Wiki. 
+A list of meeting agendas & minutes are available on our [Wiki Home pae](https://github.com/codeforkansascity/KS-CMR/wiki).
 
 # Menu
 
