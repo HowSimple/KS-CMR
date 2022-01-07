@@ -15,7 +15,7 @@ Expungement is erasing the criminal conviction of an individual who has successf
 # How to Help
 Those who are interested in learning more or assisting in the development of Clear My Record are encouraged to join one of Code for KC's weekly [meetups](https://www.meetup.com/KCBrigade/#:~:text=Code%20for%20KC%20is%20a,use%20technology%20for%20civic%20good.) to meet the project team and hear about the work that is currently being done.
 
-More information about current work items can be found on our issues page.
+More information about current work items can be found on our [project/issues](https://github.com/codeforkansascity/KS-CMR/projects/2) page.
 
 A list of key resources for the project are logged on our Wiki.
 
@@ -25,6 +25,6 @@ A list of meeting agendas & minutes are available on our Wiki.
 
 ### [Wiki](https://github.com/codeforkansascity/KS-CMR/wiki)
 
-### [Project Management](https://github.com/codeforkansascity/KS-CMR/projects?type=beta)
+### [Project Management](https://github.com/codeforkansascity/KS-CMR/projects/2)
 
 ### [Issues](https://github.com/codeforkansascity/KS-CMR/issues)
