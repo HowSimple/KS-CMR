@@ -1,0 +1,15 @@
+{
+
+    "Charges": {
+      "chargeFilePath": "data/CMR Crimes List.xlsx",
+      "chargesPage": "Abbreviated Jotform Charge List",
+      "nameColumn": "Unique Code",
+      "yearsColumn": "Years",
+      "yearsAttemptColumn": "Years (Attempt)",
+      "yearsConspiracyColumn": "Years (Conspiracy)",
+      "yearsSolicitationColumn": "Years (Solicitation)",
+      "eligibilityColumn": "Eligibility for Expungement"
+
+    }
+  }
+
