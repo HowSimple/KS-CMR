@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "server": "node ./bin/www"
+    "client": "cd ../frontend && npm run start",
+    "server": "node bin/www",
+    "start": "node_modules/.bin/concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
     "config": "^3.3.7",
