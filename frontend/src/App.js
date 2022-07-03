@@ -1,20 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-import Form from './Form.js';
+import {reducer} from './rootSlice'
+import {configureStore} from '@reduxjs/toolkit'
+import {Provider} from "react-redux";
+import MainForm from "./pages/MainForm";
+import { StylesProvider } from '@material-ui/core/styles';
+const store = configureStore({reducer});
+
 function App() {
-  return (
-    <div className="App">
-
-      <header className="App-header">
-          <Form />
-          <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-
-      </header>
-
-    </div>
+  return (<StylesProvider injectFirst>
+      <Provider store={store}>
+              <MainForm></MainForm>
+      </Provider>
+</StylesProvider>
   );
 }
-
 export default App;
