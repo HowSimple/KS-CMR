@@ -1,11 +1,11 @@
 {
-  "name": "untitled2",
-  "version": "0.0.0",
+  "name": "cmr",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "client": "cd ../frontend && npm run start",
     "server": "nodemon bin/www",
-    "start": "node_modules/.bin/concurrently \"npm run server\" \"npm run client\""
+    "start": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
     "config": "^3.3.7",
@@ -18,7 +18,8 @@
     "nodemon": "^2.0.18",
     "pug": "2.0.0-beta11",
     "react-hook-form": "^7.32.2",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "concurrently": "^7.1.0"
   },
   "devDependencies": {
     "concurrently": "^7.1.0"
