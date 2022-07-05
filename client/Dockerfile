@@ -10,7 +10,7 @@ COPY package-lock.json ./
 COPY ./ ./
 RUN npm install  --legacy-peer-deps
 
-CHMOD +x /usr/local/bin/docker-entrypoint.sh
+
 
 COPY . .
 
