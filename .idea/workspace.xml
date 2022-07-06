@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4197b8e-824d-465b-b931-b8c723717fdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Step1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/ChargeForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/components/ChargeForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/DisplayEligibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/components/DisplayEligibility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Step1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/components/Step1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/showFormDescription.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/components/showFormDescription.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/counties.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/counties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/pages/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/rootSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/src/rootSlice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -49,15 +69,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Caleb\Code\KS-CMR\backend" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\frontend\data" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\backend\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Caleb\Code\KS-CMR\src" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\frontend\src" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\frontend\src\components" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\frontend\src\pages" />
       <recent name="C:\Users\Caleb\Code\KS-CMR\backend" />
-      <recent name="C:\Users\Caleb\Code\KS-CMR" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -90,6 +111,7 @@
       <workItem from="1655483301827" duration="8774000" />
       <workItem from="1655672059018" duration="66004000" />
       <workItem from="1656191869159" duration="109779000" />
+      <workItem from="1657052140070" duration="4682000" />
     </task>
     <servers />
   </component>
@@ -112,12 +134,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/frontend/src/components/NavBar.js</url>
+          <url>file://$PROJECT_DIR$/src/client/src/components/NavBar.js</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/frontend/src/components/NavBar.js</url>
+          <url>file://$PROJECT_DIR$/src/client/src/components/NavBar.js</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

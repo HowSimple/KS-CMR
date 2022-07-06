@@ -1,0 +1,27 @@
+version: '2'
+services:
+  cmr-server:
+    build:
+      context: src/server/
+    command: npm run server
+#    command: /usr/app/node_modules/.bin/nodemon src/index.js
+    volumes:
+      - /src/server/:/app/server
+      - /usr/app/node_modules
+    ports:
+      - "3001:3001"
+    # env_file: ./server/.env # TODO - uncomment this to auto-load your .env file!
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
+  cmr-client:
+    build:
+      context: src/client/
+    command: npm start
+    volumes:
+      - /src/client/:/app/client
+      - /usr/app/node_modules
+    depends_on:
+      - cmr-server
+    ports:
+      - "3000:3000"
