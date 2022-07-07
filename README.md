@@ -1,5 +1,7 @@
 # Clear My Record
 Based on [Clear My Record](https://github.com/codeforkansascity/KS-CMR), a project to help people in Kansas figure out if criminal charges are eligible to be expunged from their record, and print out the necessary paperwork.
+## Demo
+[Click here to open the application live](http://45.153.48.223:3000/)
 ## Screenshots
 <table>
   <tr>
